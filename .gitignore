@@ -1,0 +1,4 @@
+.venv/
+venv/
+*.pyo
+test_data/
